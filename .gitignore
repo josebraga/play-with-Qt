@@ -1,0 +1,8 @@
+qt
+*.o
+*~
+core
+*.core
+moc_predefs.h
+.qmake.stash
+
